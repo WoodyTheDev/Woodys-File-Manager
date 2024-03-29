@@ -11,7 +11,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/WoodyTheDev/Woodys-File-Manager/releases/tag/v1.0.0"><strong>Try it out»</strong></a>
+    <a href="https://github.com/WoodyTheDev/Woodys-File-Manager/releases/latest"><strong>Try it out»</strong></a>
     <br />
     <br />
   </p>
