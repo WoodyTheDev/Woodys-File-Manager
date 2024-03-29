@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="images">
+    <file>icon/file-arrow-up-solid.svg</file>
+    <file>icon/file-arrow-up-solid-active.svg</file>
+    <file>icon/file-solid.svg</file>
+    <file>icon/file-solid-active.svg</file>
+    <file>icon/filter-solid.svg</file>
+    <file>icon/folder-tree-solid.svg</file>
+    <file>icon/left-long-solid.svg</file>
+    <file>icon/magnifying-glass-solid.svg</file>
+    <file>icon/minus-solid.svg</file>
+    <file>icon/pen-solid.svg</file>
+    <file>icon/plus-solid.svg</file>
+    <file>icon/trash-solid.svg</file>
+    <file>icon/window-minimize-solid.svg</file>
+    <file>icon/woody-the-dev.svg</file>
+    <file>icon/xmark-solid.svg</file>
+  </qresource>
+</RCC>
