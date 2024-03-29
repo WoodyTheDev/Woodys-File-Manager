@@ -34,7 +34,9 @@ Additional Features:
 
 - Live update for displayed files and folders of changed files and folders. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Platforms
+
+-  Windows
 
 ### Built With
 
@@ -51,7 +53,6 @@ Sources of the icons:
 - Font Awesome
 - Selfmade
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -59,4 +60,3 @@ Sources of the icons:
 
 Denis Holts - denisholts@woodythe.dev
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
